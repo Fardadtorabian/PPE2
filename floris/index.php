@@ -47,9 +47,6 @@ switch ($p) {
     case 'details':
         include('./inc/inc.details.php');
         break;
-    case 'panier':
-        include('./inc/inc.panier.php');
-        break;
     case 'commande':
         include('./inc/inc.commande.php');
         break;

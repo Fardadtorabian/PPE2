@@ -4,6 +4,7 @@ admin/!*/logs/index.html
 admin/*/cache/*
 admin/!*/cache/index.html
 admin/!*/cache/.htaccess
+admin/*.idea/*
 
 floris/*/config/development
 floris/*/logs/log-*.php
@@ -11,3 +12,4 @@ floris/!*/logs/index.html
 floris/*/cache/*
 floris/!*/cache/index.html
 floris/!*/cache/.htaccess
+admin/*.idea/*
